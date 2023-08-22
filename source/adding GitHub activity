@@ -1,0 +1,14 @@
+
+command: git push origin main
+
+[root@ip-172-31-2-81 devops-auto-work]# git push origin main
+Username for 'https://github.com': GoudSagar
+Password for 'https://GoudSagar@github.com': 
+Enumerating objects: 4, done.
+Counting objects: 100% (4/4), done.
+Compressing objects: 100% (3/3), done.
+Writing objects: 100% (3/3), 407 bytes | 407.00 KiB/s, done.
+Total 3 (delta 0), reused 0 (delta 0), pack-reused 0
+To https://github.com/GoudSagar/devops-auto-work.git
+   4495559..18871d2  main -> main
+[root@ip-172-31-2-81 devops-auto-work]#
