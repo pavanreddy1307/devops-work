@@ -1,0 +1,22 @@
+d_rsa
+
+b. go to profile -> settings -> SSH and GCG keys
+
+Name: 
+
+Copy the ssh public content :
+
+click deploy
+
+==============================================================================================================
+HTTPS CLONE:  https://github.com/GoudSagar/devops-auto-work.git
+      - HTTPS requries username and token to clone, push, pull changes etc
+
+command: git clone https://github.com/GoudSagar/devops-auto-work.git
+
+Generate Token : profile -> settings -> developer settings -> personal access token -> token classic -> generate personal access token -> generate token classic .
+
+Note: Name
+expiry date : 7 days
+Select required : scope
+Click on Generate token.i
