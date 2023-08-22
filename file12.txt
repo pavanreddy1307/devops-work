@@ -1,0 +1,15 @@
+
+===========================================================
+Standard branches:
+===========================================================
+1. master - default branch - latest code is updated
+2. develop - development and testing phase  code is here and development and testing are performed on this branch
+3. release - final code - ready to deploy in production/live -> ready to launch application
+    eg: release-01
+        flipkart-release-1.0.200
+4. feature - feature wise development branches for developing feature in unique branches
+    eg: login-feature
+        backend-application 
+5. Hotfix - Branches are created when an issue is raised to fix in live/production enviroment.
+     eg: ticket-no-issue
+         DTRST01-logout-failure
